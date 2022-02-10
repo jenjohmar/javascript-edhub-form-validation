@@ -1,0 +1,14 @@
+form {
+    background-color: aquamarine;
+    width: 300px;
+    display: flex;
+    flex-direction: column;
+    margin: auto;
+    padding: 50px;
+}
+
+.error {
+    font-size: small;
+    color: red;
+    font-weight: bold;
+}
